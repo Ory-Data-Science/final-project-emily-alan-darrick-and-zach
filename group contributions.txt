@@ -1,0 +1,13 @@
+Group Member Contributions
+
+Zachary Biggs
+Zach's contribution to the project had largely to do with Data organization. He was responsible for renaming the column titles from the raw data into titles that were clear, concise and reflected exactly the data in the corresponding column. Another large contribution was Figure 1. Zach created and debugged all the coding for the labels, scale, coloring and titles. He organized it in a way that got presented the data in a meaningful analysis that contributed to the reseaarch question asked in the poster. 
+
+Alan Catalano
+Alan contributed during the coding stage in helping Zach and Emily edit code for both data organization and creation of the ggplot visuals. Alan also is responsible for the results section of the poster, describing the trends that were reflected in the visualizations Figure 1 and Figure 2. He effectively communicated the trends by specifically refrencing the data presented in the figures to highlight the differenced we wished to communicate to the poster's observer. 
+
+Emily Cunningham
+Emily contributed by finding the original data for the project from the CARES website and writing the original project proposal. She also worked in the coding section by writing the code in Rstudio and creating the visualization titled Figure 2. The ggplot code included organizing appropriate x axis and y axis,  labeling and titling the figure and including a code to color the graph to make the data more easily comprable. She also contributed to the poster by composing the introduction section to introduce the data being used and the overall goals of the anaysis being presented. Finally she wrote this group contribution section to describe how the work was divided among the team.
+
+Darrick Emery
+Darrick contributed to the poster by writing the methods and conclusion sections. The methods section explains the thought process behind using both the coding platform that we chose, which was RStudio, and the data that we ultimately chose to analyze. It also gives a brief summary of the data presented in the figures as a preface to the results section. In the conclusion section Darrick synthesizes the analysis of the presented data and correlates it to the original hypothesis that the poster refrences in the introduction. The conclusion portion nicely terminates with a concise statement emphasizing the outcomes of our research. 
